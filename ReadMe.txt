@@ -1,3 +1,3 @@
 This is sample email template for product listing help full for company that want to sent his product description mail for marketing purpose. Sending PDF is too old way and client have not interested to download it. let me this type of template. if you feed any any difficulty lets on know we provide freelance service for make your template as your requirement. 
 
-![ScreenShot](https://https://github.com/arkayappsteam/product-listing-email-template/blob/master/sample.png)
+![ScreenShot](https://github.com/arkayappsteam/product-listing-email-template/blob/master/sample.png)
